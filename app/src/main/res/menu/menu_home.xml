@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/deseo"
+        android:title="deseo"
+        android:icon="@drawable/ic_deseo"
+        app:showAsAction="always" />
+
+    <item
+        android:id="@+id/reset"
+        android:title="reset"
+        android:icon="@drawable/ic_reset"
+        app:showAsAction="always" />
+
+    <item
+        android:id="@+id/atras"
+        android:title="atras"
+        android:icon="@drawable/ic_atras"
+        app:showAsAction="always" />
+
+    <item
+        android:id="@+id/cerrarSesion"
+        android:title="Cerrar Sesión"
+        app:showAsAction="never"/>
+</menu>

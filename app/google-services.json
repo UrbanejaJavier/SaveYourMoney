@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "195430926737",
+    "firebase_url": "https://saveyourmoney1-4ee92-default-rtdb.firebaseio.com",
+    "project_id": "saveyourmoney1-4ee92",
+    "storage_bucket": "saveyourmoney1-4ee92.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:195430926737:android:1d0275bc39e1053431b230",
+        "android_client_info": {
+          "package_name": "com.example.saveyourmoney1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "195430926737-80ju1jrl71dc3pcathih4ugriqjq9i75.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsQklaDPmgQR_oNPiXiJlKTkkeHUDs-fM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "195430926737-80ju1jrl71dc3pcathih4ugriqjq9i75.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
